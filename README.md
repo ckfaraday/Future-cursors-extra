@@ -30,7 +30,7 @@ run:
 ./build.sh svg-light-yellow
 ```
 
-Replace "svg-light-yellow" with the name of the folder under src/ you wish to build and install.
+Replace "svg-light-yellow" with the name of the folder under `src/` you wish to build and install.
 
 This will generate the pixmaps and appropriate aliases.
 The freshly compiled cursor theme will be located in `dist/`
